@@ -1,0 +1,21 @@
+{
+  "name": "eMobile",
+  "short_name": "eMobile",
+  "start_url": "/",
+  "display": "standalone",
+  "scope" : "/",
+    "categories": ["multipurpose ", "ecommerce", "shopping", "blog", "delivery", "store", "wallet", "banking", "education", "distance learning", "jobs", "careers"],
+    "background_color": "#ffffff",
+    "theme_color": "#ff3f3f",
+    "orientation": "portrait",
+    "description": "eMobile - Multipurpose HTML5 Template",
+    "icons": [
+     
+      {
+        "src": "../img/favicon/favicon192.png",
+        "type": "image/png", 
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      }
+    ]
+  }
